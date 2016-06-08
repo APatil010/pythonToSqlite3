@@ -4,6 +4,6 @@ Just a simple conversion tool, I made because my friends were doing some hard an
 
 ## Things used:
    SQLite3
-   python
-   File handling in python
+   ,python
+   ,File handling in python
    
